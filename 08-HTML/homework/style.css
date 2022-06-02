@@ -1,0 +1,18 @@
+h1{
+    color: darkorange;
+}
+img{
+    width: 400px;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    padding: 50px;
+    border: solid rgb(181, 112, 10) 3px;
+    background-color: lavenderblush;
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+}
